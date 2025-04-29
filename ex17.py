@@ -5,4 +5,4 @@ def eliminarNegativos(lista):
             lista.remove(num)
     return lista
 
-print(eliminarNegativos([-3, -2, -1, 0, 1, 2]))
+print(eliminarNegativos([-3, -2, -1, 0, 1, 2]))aa
